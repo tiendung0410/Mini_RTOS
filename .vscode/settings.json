@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "miros.h": "c",
+        "queue.h": "c",
+        "array": "c",
+        "string": "c"
+    }
+}
