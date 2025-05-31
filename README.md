@@ -26,7 +26,7 @@
 │       ├── miros.c         # Toàn bộ mã nguồn RTOS
 │       └── main.c          # Ứng dụng mẫu sử dụng RTOS
 ├── mrtos/
-│   ├── miros.c             # (Có thể là bản gốc hoặc bản tham khảo)
+│   ├── miros.c            
 │   └── miros.h
 ├── Drivers/
 │   └── STM32F1xx_HAL_Driver/
